@@ -6,10 +6,16 @@
 .header{
     width: 100vw;
     text-align: center;
+    background: linear-gradient(to right,rgb(166, 0, 0), black, rgb(21, 21, 21), rgb(1, 159, 17));
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 0px;
 }
 div {
     /* width: 50vw; */
     border: 1px solid black;
+    text-align: center;
+    color: white;
 }
 .service-container{
     display: flex;
