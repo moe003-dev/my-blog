@@ -3,7 +3,21 @@
     padding: 0px;
     box-sizing: border-box;
 }
+.header{
+    width: 100vw;
+    text-align: center;
+}
 div {
-    width: 50vw;
+    /* width: 50vw; */
     border: 1px solid black;
+}
+.service-container{
+    display: flex;
+}
+.frontend {
+    /* background-image: url(/class-5/images/frontend.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px; */
 }
